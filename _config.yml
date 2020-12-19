@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "BestYuer | 最好的于儿"
-description:      "最好的于儿|欢迎来到于儿的「角落」"
+title:            "Fisher Is Me"
+description:      "我是于儿|欢迎来到于儿的「角落」"
 url:              "https://anglefish.github.io/" # 域名
-signoff:          "YuEr" # Your name
+signoff:          "Fisher" # Your name
 facebook_appid:   #facebook_id
 google_analytics: #UA-101222464-1
 share:            true 

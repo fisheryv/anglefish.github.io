@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: 关于我
-description: "关于YuEr博客角落自述"
+description: "关于Fisher博客角落自述"
 tags: 
 - YuEr
 - 简述
